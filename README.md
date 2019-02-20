@@ -1,9 +1,10 @@
-# liriapp
-Liri Bot
+***Steven has given me extra time to complete this assignment. 
+I created GIFs for this readme but could not figure out how to make it work***
 
 LIRI is like iPhone's Siri. However, while Siri is a Speach Interoretation and Recognition Interface, Liri is a Language Interoretation and Recignition Interface. Liri will be a command line node app that take in parameters and gives you back data.
 
 ***node liri.js concert-this <artist/band name here>***
+
 This will search the Bands in Town Artist Events API for an artist and render the following information about each event to the terminal:
 
 1. Name of the venue
